@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CS1010",
+    "name": "Web Technologies"
+  },
+  {
+    "id": "CS1020",
+    "name": "Introduction to Cloud Computing"
+  },
+  {
+    "id": "CS1030",
+    "name": "Introduction to AI"
+  },
+  {
+    "id": "CS1040",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "CS1050",
+    "name": "Physics for Software Engineering"
+  },
+  {
+    "id": "CS1060",
+    "name": "Compilation Theory"
+  }
+]

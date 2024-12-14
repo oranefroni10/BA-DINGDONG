@@ -1,0 +1,527 @@
+[
+    {
+        "course_id": "CS1010",
+        "type": "Class",
+		"lecturer_id": "123456789",
+        "day_of_week": "Monday",
+        "date": "2024-11-11",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "missed"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1010",
+        "type": "Tutorial",
+		"lecturer_id": "123456789",
+        "day_of_week": "Monday",
+        "date": "2024-11-11",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "missed"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Tutorial",
+		"lecturer_id": "456456456",
+        "day_of_week": "Monday",
+        "date": "2024-11-11",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Class",
+		"lecturer_id": "123123123",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-13",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "missed"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1050",
+        "type": "Class",
+		"lecturer_id": "987654321",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-13",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1050",
+        "type": "Tutorial",
+		"lecturer_id": "987654321",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-13",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Tutorial",
+		"lecturer_id": "789789789",
+        "day_of_week": "Thursday",
+        "date": "2024-11-14",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "missed"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1010",
+        "type": "Class",
+		"lecturer_id": "123456789",
+        "day_of_week": "Monday",
+        "date": "2024-11-18",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "missed"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1010",
+        "type": "Tutorial",
+		"lecturer_id": "123456789",
+        "day_of_week": "Monday",
+        "date": "2024-11-18",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Tutorial",
+		"lecturer_id": "456456456",
+        "day_of_week": "Monday",
+        "date": "2024-11-18",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Class",
+		"lecturer_id": "123123123",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-20",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1050",
+        "type": "Class",
+		"lecturer_id": "987654321",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-20",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "missed"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1050",
+        "type": "Tutorial",
+		"lecturer_id": "987654321",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-20",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Tutorial",
+		"lecturer_id": "789789789",
+        "day_of_week": "Thursday",
+        "date": "2024-11-21",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1010",
+        "type": "Class",
+		"lecturer_id": "123456789",
+        "day_of_week": "Monday",
+        "date": "2024-11-25",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1010",
+        "type": "Tutorial",
+		"lecturer_id": "123456789",
+        "day_of_week": "Monday",
+        "date": "2024-11-25",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Tutorial",
+		"lecturer_id": "456456456",
+        "day_of_week": "Monday",
+        "date": "2024-11-25",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Class",
+		"lecturer_id": "123123123",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-27",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1050",
+        "type": "Class",
+		"lecturer_id": "987654321",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-27",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "missed"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1050",
+        "type": "Tutorial",
+		"lecturer_id": "987654321",
+        "day_of_week": "Wednesday",
+        "date": "2024-11-27",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "missed"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "missed"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    },
+    {
+        "course_id": "CS1020",
+        "type": "Tutorial",
+		"lecturer_id": "789789789",
+        "day_of_week": "Thursday",
+        "date": "2024-11-28",
+        "records": [
+            {
+                "student_id": "316317023",
+                "status": "attended"
+            },
+            {
+                "student_id": "207759713",
+                "status": "attended"
+            },
+            {
+                "student_id": "315824409",
+                "status": "attended"
+            },
+            {
+                "student_id": "208741934",
+                "status": "attended"
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+input {
+  transition: border 0.2s, box-shadow 0.2s;
+}
+
+input:focus {
+  box-shadow: 0 0 5px rgba(59, 130, 246, 0.5);
+  border-color: #3b82f6;
+}
+
+button {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+.table-auto th, .table-auto td {
+  text-align: left;
+}
+
+#login-page {
+  background-image: linear-gradient(180deg, black 0%, green 50%, blue 100%);
+  background-position: center;
+}
+
+/* Dark mode styles */
+html.dark {
+  color-scheme: dark;
+  background-color: #1a202c;
+  color: #e2e8f0;
+}
+
+.dark body {
+  background-color: #2d3748;
+}
+
+.dark input {
+  background-color: #4a5568;
+  color: #e2e8f0;
+  border-color: #718096;
+}
+
+.dark button {
+  background-color: #4a5568;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark .bg-white {
+  background-color: #333333;
+}
+
+body.dark .text-gray-800 {
+  color: #dddddd;
+}
+
+body.dark .bg-gray-100 {
+  background-color: #444444;
+  color: #dddddd;
+}

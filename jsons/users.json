@@ -1,0 +1,74 @@
+[
+  {
+    "username": "tomer",
+    "password": "to",
+    "id": "316317023",
+    "first_name": "Tomer",
+    "last_name": "Rotman",
+	"type": "Student"
+  },
+  {
+    "username": "david",
+    "password": "da",
+    "id": "207759713",
+    "first_name": "David",
+    "last_name": "Zorin",
+	"type": "Student"
+  },
+  {
+    "username": "ofer",
+    "password": "of",
+    "id": "315824409",
+    "first_name": "Ofer",
+    "last_name": "Elzara",
+	"type": "Student"
+  },
+  {
+    "username": "oran",
+    "password": "or",
+    "id": "208741934",
+    "first_name": "Oran",
+    "last_name": "Efroni",
+	"type": "Student"
+  },
+  {
+    "username": "u1",
+    "password": "pass1",
+    "id": "123456789",
+    "first_name": "John",
+    "last_name": "Doe",
+	  "type": "Lecturer"
+  },
+  {
+    "username": "u2",
+    "password": "pass2",
+    "id": "987654321",
+    "first_name": "Alice",
+    "last_name": "Williams",
+	"type": "Lecturer"
+  },
+  {
+    "username": "u3",
+    "password": "pass3",
+    "id": "123123123",
+    "first_name": "Robert",
+    "last_name": "Brown",
+	"type": "Lecturer"
+  },
+  {
+    "username": "u4",
+    "password": "pass4",
+    "id": "456456456",
+    "first_name": "Mary",
+    "last_name": "Johnson",
+	"type": "Lecturer"
+  },
+  {
+    "username": "u5",
+    "password": "pass5",
+    "id": "789789789",
+    "first_name": "David",
+    "last_name": "Miller",
+	"type": "Lecturer"
+  }
+]

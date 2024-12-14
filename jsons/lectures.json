@@ -1,0 +1,65 @@
+[
+  {
+    "course_id": "CS1010",
+    "type": "Class",
+    "day_of_week": "Monday",
+    "start_time": "08:30",
+    "end_time": "11:30",
+    "lecturer_id": "123456789",
+    "students_ids": ["316317023", "207759713", "315824409", "208741934"]
+  },
+  {
+    "course_id": "CS1010",
+    "type": "Tutorial",
+    "day_of_week": "Monday",
+    "start_time": "11:30",
+    "end_time": "13:50",
+    "lecturer_id": "123456789",
+    "students_ids": ["316317023", "207759713", "315824409", "208741934"]
+  },
+  {
+    "course_id": "CS1020",
+    "type": "Class",
+    "day_of_week": "Wednesday",
+    "start_time": "8:30",
+    "end_time": "10:30",
+    "lecturer_id": "123123123",
+    "students_ids": ["316317023", "315824409", "208741934"]
+  },
+  {
+    "course_id": "CS1020",
+    "type": "Tutorial",
+    "day_of_week": "Monday",
+    "start_time": "15:50",
+    "end_time": "17:50",
+    "lecturer_id": "456456456",
+    "students_ids": ["315824409", "208741934"]
+  },
+  {
+    "course_id": "CS1020",
+    "type": "Tutorial",
+    "day_of_week": "Thursday",
+    "start_time": "10:20",
+    "end_time": "12:20",
+    "lecturer_id": "789789789",
+    "students_ids": ["316317023"]
+  },
+  {
+    "course_id": "CS1050",
+    "type": "Class",
+    "day_of_week": "Wednesday",
+    "start_time": "13:50",
+    "end_time": "15:50",
+    "lecturer_id": "987654321",
+    "students_ids": ["315824409", "208741934"]
+  },
+  {
+    "course_id": "CS1050",
+    "type": "Tutorial",
+    "day_of_week": "Wednesday",
+    "start_time": "15:50",
+    "end_time": "17:50",
+    "lecturer_id": "987654321",
+    "students_ids": ["315824409", "208741934"]
+  }
+]
