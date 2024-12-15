@@ -138,10 +138,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
         for (let i = 0; i < 4; i++) {
             const square = document.createElement('div');
-            square.classList.add('statistics-square', 'dark:statistics-square');
+            square.classList.add('statistics-square');
             square.style.width = '270px';
             square.style.height = '270px';
-            square.style.backgroundColor = 'white';
             square.style.borderRadius = '10px';
             square.style.display = 'flex';
             square.style.flexDirection = 'column';  // Stack the headline on top
