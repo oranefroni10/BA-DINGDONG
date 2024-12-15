@@ -4,8 +4,17 @@ document.addEventListener('DOMContentLoaded', () => {
     // Common utilities
     const handleDarkModeToggle = () => {
         document.body.classList.toggle('dark');
+    
+        // Update background color of boxes
+        const squares = document.querySelectorAll('.statistics-square');
+        const isDarkMode = document.body.classList.contains('dark');
+    
+        squares.forEach(square => {
+            square.style.backgroundColor = isDarkMode ? '#2d3748' : 'white';
+            square.style.color = isDarkMode ? '#e2e8f0' : 'black'; // Ensure text is visible
+        });
     };
-
+    
     const handleLogout = () => {
         localStorage.removeItem('currentUser');
         window.location.href = 'index.html';
