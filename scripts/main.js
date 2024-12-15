@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const handleDarkModeToggle = () => {
         document.body.classList.toggle('dark');
     };
-
+    
     const handleLogout = () => {
         localStorage.removeItem('currentUser');
         window.location.href = 'index.html';

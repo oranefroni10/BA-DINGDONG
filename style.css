@@ -36,30 +36,21 @@ button:active {
   background-position: center;
 }
 
-/* Dark mode styles */
+/* Set a global dark scheme */
 html.dark {
   color-scheme: dark;
-  background-color: #1a202c;
-  color: #e2e8f0;
 }
 
-.dark body {
-  background-color: #2d3748;
-}
-
-.dark input {
-  background-color: #4a5568;
-  color: #e2e8f0;
-  border-color: #718096;
-}
-
-.dark button {
-  background-color: #4a5568;
-}
-
+/* Apply dark mode to body and elements inside it */
 body.dark {
   background-color: #121212;
   color: #ffffff;
+}
+
+body.dark input {
+  background-color: #4a5568;
+  color: #e2e8f0;
+  border-color: #718096;
 }
 
 body.dark .bg-white {
@@ -73,4 +64,11 @@ body.dark .text-gray-800 {
 body.dark .bg-gray-100 {
   background-color: #444444;
   color: #dddddd;
+}
+
+/* Dark mode for statistics squares */
+.dark .statistics-square{
+  color-scheme: dark;
+  background-color: #2d3748;
+  color: #e2e8f0;
 }
